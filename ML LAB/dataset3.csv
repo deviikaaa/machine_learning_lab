@@ -1,0 +1,6 @@
+Name, Age, Salary, Department
+Alice, 30, 50000, HR
+Bob, , 60000, IT
+Charlie, 35, , Finance
+Alice, 30, 50000, HR
+Eve, 40, 70000, IT
